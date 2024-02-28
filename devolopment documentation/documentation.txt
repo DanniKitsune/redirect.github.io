@@ -14,3 +14,26 @@ Now onto the documentation section.
 
 #Documentation
 ------------------------------
+Picture naming convention
+[Gen of Pokemon][Game Caught][Pokemon Name][Date Caught][_#]
+
+Generation: 01-10
+
+Game Caught:
+RBGY - Red, Blue, Green, Yellow
+GSC - Gold, Silver, Crystal
+RSE - Ruby, Sapphire, Emerald
+FR LG - Fire Red, Leaf Green
+DPPt - Diamond, Pearl, Platinum
+HG SS - Heart Gold, Soul Silver
+BW B2W2 - Black, White, Black 2, White 2
+XY ORAS - X, Y, Omega Ruby, Aplha Sapphire
+SM USUM - Sun, Moon, Ultra Sun, Ultra Moon
+LP LE - Let's Go Pikachu, Let's Go Eevee
+SwSh Isle Armour - Sword, Sword Isle of Armour, Sword Crown Tundra, Shield, Shield Isle of Armour, Shield Crown Tundra
+PLA - Pokemon Legends Arceus
+SV Mask DIsc - Scarlet, Scarlet Teal Mask, Scarlet Indigo Disk, Violet, Violet Teal Mask, Violet Indigo Disk
+
+Pokemon Name: 
+Date Caught: DD-MM-YYYY
+_#: Number of Picture for same pokemon

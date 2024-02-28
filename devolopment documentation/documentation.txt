@@ -1,0 +1,16 @@
+#Introduction
+-------------------------
+Hello, welcome to the inside thoughts and documentation of the owner Danni.
+
+Firstly, if you are reading this, smart.
+
+Secondly here is the internal thoughs, diolouge, updates, annd documentation on how I (Danni) built this website while going through college.
+
+I understand this website looks like it is straight out of 1995-1999 I'm still learning HTML, CSS, JS, ect.
+
+I had purchased the URL's dannikitsune.com and danniarcticfox.com early Febuary 2024.
+
+Now onto the documentation section.
+
+#Documentation
+------------------------------

@@ -20,10 +20,27 @@ h3 {
   margin-bottom: 2px;
   margin-top: 2px;
 }
+h3 p {
+  font-size: 24px;
+  border: 2px solid black;
+  background-color: #80ffff;
+  color: #ff80ff;
+  border-radius: 7px;
+  display: inline-block;
+  padding: 3px 8px;
+  font-weight: bold;
+}
 h4 {
   font-size: 20px;
   margin-bottom: 2px;
   margin-top: 2px;
+  border: 2px solid black;
+  background-color: whitesmoke;
+  color: red;
+  border-radius: 7px;
+  display: inline-block;
+  padding: 3px 8px;
+  font-weight: bold;
 }
 h5 {
   font-size: 18px;
@@ -50,6 +67,16 @@ nav a {
 nav a:hover {
   background-color: indigo;
 }
+p {
+  font-size: 18px;
+  border: 2px solid black;
+  background-color: #80ffff;
+  color: #ff80ff;
+  border-radius: 7px;
+  display: inline-block;
+  padding: 3px 8px;
+  margin: 4px;
+}
 .genText {
   border: 2px solid black;
   background-color: #80ffff;
@@ -65,20 +92,26 @@ nav a:hover {
 .imageGBC {
   max-width: 30%;
   border: 1px solid black;
-  border-radius: 3px;
+  border-radius: 6px;
 }
 .imageGBA {
   max-width: 30%;
   border: 1px solid black;
-  border-radius: 3px;
+  border-radius: 6px;
 }
 .image3ds {
+  max-width: 45%;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+.imageSwitchswsh {
   max-width: 30%;
   border: 1px solid black;
-  border-radius: 3px;
+  border-radius: 6px;
 }
-.imageSwitch {
-  max-width: 30%;
+.imageSwitchsv {
+  max-width: 24%;
   border: 1px solid black;
-  border-radius: 3px;
+  border-radius: 6px;
 }
+/* Code being tested for galleries */

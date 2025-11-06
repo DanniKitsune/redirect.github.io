@@ -1,6 +1,7 @@
 html {
   background-image: url("/pics/background.jpg");
 }
+/*
 h1 {
   font-size: 32px;
   margin-bottom: 4px;
@@ -91,6 +92,9 @@ p {
   font-size: 16px;
   width: 98%
 }
+*/
+
+
 .imageGBC {
   max-width: 30%;
   border: 1px solid black;
